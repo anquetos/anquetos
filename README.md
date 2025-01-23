@@ -34,7 +34,7 @@ I particularly enjoy programming in Python and am very interested in data engine
 
 ### 📫 Connect With Me
 - GitHub : [@Anquetos](https://github.com/Anquetos)
-- LinkedIn : [Thomas Anquetil](www.linkedin.com/in/thomas-anquetil-132a73123)
+- LinkedIn : [Thomas Anquetil](https://www.linkedin.com/in/thomas-anquetil-132a73123)
 - Location : Rouen, France
 
 ### 📊 GitHub Stats

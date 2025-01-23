@@ -1,15 +1,17 @@
-# 👋 Hello, I'm Thomas Anquetil
+## 👋 Hello, welcome to my page !
 
-## 🚀 About Me
-Passionate about computer science since my teenage years, I've made an exciting career transition after 16 years in the HVAC sector. I've chosen to redirect my career towards the vast and growing field of data science, combining my lifelong passion with the experience and skills acquired throughout my journey in climate engineering. I particularly enjoy programming in Python and am very interested in data engineering topics.
+I'm **Thomas Anquetil**, passionate about computer science since my teenage years, I've chosen to redirect my career towards the vast and growing field of data science, combining my lifelong passion with the experience and skills acquired throughout my previous experiences.
 
-## 💼 Professional Journey
-- 16 years of experience in HVAC engineering
-- Successfully completed a certified Data Analyst training program
-- Continuously expanding my skills through self-study and practical projects
-- Focusing on Python programming and data engineering concepts
+I particularly enjoy programming in Python and am very interested in data engineering topics.
 
-## 🛠 Skills & Tools
+### 💼 Professional Journey
+* Currently working as a **Data Analyst**
+* **16+ years** of experience in HVAC sector
+* Successfully **completed a certified Data Analyst training program**
+* Continuously expanding my skills through self-study and practical projects
+* Focusing on **Python programming** and **data engineering** concepts
+
+### 🛠 Skills & Tools
 - Data Analysis / Data Science / Data Visualization
 - ETL
 - Python
@@ -19,23 +21,23 @@ Passionate about computer science since my teenage years, I've made an exciting 
 - GitHub
 - Power BI / Streamlit / Plotly Dash
 
-## 🌱 Continuous Learning
+### 🌱 Continuous Learning
 - Completed additional Python training on Udemy
-- Developed several personal projects
+- Developed several personal projects like [MeteoViz](https://meteoviz-app.streamlit.app/)
 - Volunteered with [Data For Good](https://dataforgood.fr/)
 - Freelance mission for the [European Tax Observatory](https://www.taxobservatory.eu/) working on their [Taxplorer](https://www.taxplorer.eu/) tool.
 
-## 🔭 Current Focus
+### 🔥 Current Focus
 - Advanced Python programming
 - Data engineering concepts
 - Building scalable data solutions
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 - GitHub : [@Anquetos](https://github.com/Anquetos)
-- [LinkedIn](www.linkedin.com/in/thomas-anquetil-132a73123)
+- LinkedIn : [Thomas Anquetil](www.linkedin.com/in/thomas-anquetil-132a73123)
 - Location : Rouen, France
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anquetos&show_icons=true&theme=radical)
 
 

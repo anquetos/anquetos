@@ -1,60 +1,107 @@
-## 👋 Hello, welcome to my page !
+# Hi, I'm Thomas 👋
 
-I'm **Thomas Anquetil**, passionate about computer science since my teenage years, I've chosen to redirect my career towards the vast and growing field of data science, combining my lifelong passion with the experience and skills acquired throughout my previous experiences.
+Data & Analytics professional with a background in product management within the building and HVAC industry.
 
-I particularly enjoy programming in Python and am very interested in data engineering topics.
+Today I work on data analysis, automation and decision support, helping transform data into insights and actionable solutions.
 
-### 💼 Professional Journey
-* Currently working as a **Data Analyst**
-* **16+ years** of experience in HVAC sector
-* Successfully **completed a certified Data Analyst training program**
-* Continuously expanding my skills through self-study and practical projects
-* Focusing on **Python programming** and **data engineering** concepts
+Before designing data solutions, I spent more than 16 years using them to develop product strategies, monitor performance and support business decisions.
 
-### 🛠 Skills & Tools
+## My approach
 
-| **Category**                       | **Tools/Technologies**                                                 |
-|------------------------------------|-----------------------------------------------------------------------|
-| **Languages**                  | ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQL-%23003B57?style=flat&logo=sqlite&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML%2FCSS-%23E34F26?style=flat&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/VBA-%23F9DC5C?style=flat&logoColor=white) |
-| **Data Processing & Analysis** | ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas&logoColor=white) ![Static Badge](https://img.shields.io/badge/Numpy-%23013243?style=flat&logo=numpy&logoColor=white) ![Static Badge](https://img.shields.io/badge/KNIME-%23FDD800?style=flat&logo=knime&logoColor=grey) ![Static Badge](https://img.shields.io/badge/Power%20Query-%23006600?style=flat) |     
-| **Data Visualization**         | ![Static Badge](https://img.shields.io/badge/matplotlib-%2348566b?style=flat) ![Static Badge](https://img.shields.io/badge/Plotly-%233F4F75?style=flat&logo=plotly) ![Static Badge](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Static Badge](https://img.shields.io/badge/Power%20BI-%23f2c811?style=flat) |
-| **Machine Learning**           | ![Static Badge](https://img.shields.io/badge/scikit-learn-%23F7931E?style=flat&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy-%238CAAE6?style=flat&logo=scipy&labelColor=grey) ![Static Badge](https://img.shields.io/badge/spacy-%2309A3D5?style=flat&logo=spaCy&labelColor=grey) ![Static Badge](https://img.shields.io/badge/LangChain-%231C3C3C?style=flat&logo=langchain) |
-| **IDE**                        | ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%2322a8f1?style=flat) ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&labelColor=grey) ![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat&logo=pycharm) ![Static Badge](https://img.shields.io/badge/SAS%20Enterprise%20Guide-%230766d1?style=flat) ![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&labelColor=grey) |
-| **Version Control**            | ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github) |
-| **Cloud Platforms**            | ![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?style=flat&logo=amazonwebservices) ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=flat&logo=googlecloud&labelColor=grey) |
+No matter the subject, my approach remains the same:
 
-### 🌱 Continuous Learning
-- Completed additional Python training on Udemy
-- Developed several personal projects like [MeteoViz](https://meteoviz-app.streamlit.app/)
-- Volunteered with [Data For Good](https://dataforgood.fr/)
-- Freelance mission for the [European Tax Observatory](https://www.taxobservatory.eu/) working on their [Taxplorer](https://www.taxplorer.eu/) tool.
+➡ Understand  
+➡ Explain  
+➡ Improve
 
-### 🔥 Current Focus
-- Advanced Python programming
-- Data engineering concepts
-- Building scalable data solutions
+I enjoy projects that sit at the intersection of business challenges and technical solutions.
 
-### 📫 Connect With Me
-- GitHub : [@Anquetos](https://github.com/Anquetos)
-- LinkedIn : [Thomas Anquetil](https://www.linkedin.com/in/thomas-anquetil-132a73123)
-- Location : Rouen, France
+Beyond the technical aspects, I like understanding the broader context, identifying what creates value and finding practical ways to improve existing processes or products.
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anquetos&show_icons=true&theme=radical)
+---
 
+## Current focus
 
+- Data Analytics
+- Business Analytics
+- Python Development
+- Data Automation
+- Data Quality
+- Cloud Data Solutions
+- AI-driven Business Solutions
 
-<!--
-**anquetos/anquetos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Analytics & Data
+
+- Python
+- SQL
+- Snowflake
+- Power BI
+- Excel
+
+### Cloud & Platforms
+
+- Azure
+- Azure DevOps
+- GitHub
+
+### Data Engineering & Automation
+
+- Data Preparation
+- Data Modeling
+- APIs
+- ETL
+- Automation
+
+---
+
+## Featured Projects
+
+### 🥈 Paris 2024 Explorer
+
+Silver Medal winner of the official Paris 2024 Olympic Games Open Data Challenge.
+
+Application allowing users to explore cultural events around Olympic competition venues by combining multiple open datasets and geospatial analysis.
+
+### 🌦 MeteoViz
+
+Streamlit application built on top of Météo-France public APIs.
+
+Provides access to real-time and historical weather observations through an interactive interface.
+
+### 📊 Taxplorer
+
+Contribution to the European Tax Observatory project.
+
+Worked on improving and maintaining a data visualization platform built from public country-by-country reporting data.
+
+### 🧠 RAG Learning Project
+
+Experimentation around Retrieval-Augmented Generation (RAG), vector search and document retrieval to generate study material from technical documentation.
+
+---
+
+## Currently Building
+
+🚧 Automated Data Platform
+
+A personal project combining:
+
+- Data collection
+- Automated workflows
+- Supabase
+- APIs
+- Streamlit
+- GitHub Actions
+
+The goal is to build a complete data product from ingestion to user interface.
+
+---
+
+## Connect with me
+
+- [LinkedIn](www.linkedin.com/in/thomas-anquetil-132a73123)
+- [GitHub](github.com/anquetos)

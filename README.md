@@ -103,5 +103,5 @@ The goal is to build a complete data product from ingestion to user interface.
 
 ## Connect with me
 
-- [LinkedIn](www.linkedin.com/in/thomas-anquetil-132a73123)
-- [GitHub](github.com/anquetos)
+- [LinkedIn](https://www.linkedin.com/in/thomas-anquetil-132a73123)
+- [GitHub](https://github.com/anquetos)
